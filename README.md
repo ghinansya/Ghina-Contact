@@ -1,6 +1,6 @@
 # Ghina Nur Agsya
 ## 2130511043
-### Mobile Programming 2 - ToDo-List App
+### Mobile Programming - Contact App
 
 #
 - Setup dan Install

@@ -6,7 +6,7 @@
 - Setup dan Install
 Requirements :
   
-    Node.js (npm, npx)
+    Node.js (npm)
 
 
 Clone Repository

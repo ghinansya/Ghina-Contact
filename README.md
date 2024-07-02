@@ -8,8 +8,6 @@ Requirements :
   
     Node.js (npm, npx)
 
-    Browser : Chrome, Firefox, Edge, etc (Untuk npm run website, develop pada website)
-    Mobile Emulator : Android Studio, Genny Mobile, etc (Untuk npm run android, develop pada android)
 
 Clone Repository
 ```html
@@ -25,11 +23,6 @@ npm install
 ```
 
 Menjalankan proyek
-Menjalankan untuk Android (Server)
 ```ruby
-npm run web
-```
-Menjalankan Untuk Website (Server)
-```ruby
-npm run web
+npm start
 ```

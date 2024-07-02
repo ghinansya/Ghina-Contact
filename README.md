@@ -28,5 +28,5 @@ npm start
 ```
 Proyek biasanya berjalan di local dengan port 8081 dan url:
 ```ruby
-https://localhost:8081
+http://localhost:8081
 ```

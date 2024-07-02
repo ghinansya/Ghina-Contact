@@ -26,3 +26,7 @@ Menjalankan proyek
 ```ruby
 npm start
 ```
+Proyek biasanya berjalan di local dengan host 8081 url:
+```ruby
+https://localhost:3000
+```
